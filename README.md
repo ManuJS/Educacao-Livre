@@ -1,3 +1,6 @@
+<p align="center">
+<img src="http://i.imgur.com/iqKAnJq.png" />
+</p>
 # Projeto Educação Livre
 
 O Projeto Aprendizagem Digital para Inclusão no Mundo do Trabalho - Educação Livre, é uma parceria entre o Sistema Indústria, Organização das Nações Unidas para a Educação, a Ciência e a Cultura – UNESCO e o Banco Interamericano de Desenvolvimento – BID.
